@@ -1,0 +1,21 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for managing support tickets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ticket",
+    "support"
+  ],
+  "author": "Gabryx412_",
+  "license": "MIT"
+}
+ 
